@@ -8,7 +8,7 @@
 
 使用原生html+css+javascript三件套完成。
 
-仿照小米官网:https://www.mi.com/，完成页面的布局。
+仿照小米官网:https://www.mi.com/ ，完成页面的布局。
 
 允许用flex布局，尽可能的添加交互和动效，比如搜索框的下拉框,轮播图等。
 
